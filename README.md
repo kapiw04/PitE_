@@ -1,4 +1,4 @@
 # PitE_
 ## Collaborators:
- - Gracjan Adamus
  - Kacper Wojtowicz
+ - Gracjan Adamus
